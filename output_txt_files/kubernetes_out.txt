@@ -1,0 +1,16 @@
+Error from server (AlreadyExists): pods "flask-demo" already exists
+NAMESPACE     NAME                               READY   STATUS    RESTARTS      AGE
+default       flask-demo                         1/1     Running   0             22m
+default       test-demo                          1/1     Running   0             41s
+kube-system   coredns-787d4945fb-kcdbr           1/1     Running   0             22m
+kube-system   etcd-minikube                      1/1     Running   0             23m
+kube-system   kube-apiserver-minikube            1/1     Running   0             23m
+kube-system   kube-controller-manager-minikube   1/1     Running   0             23m
+kube-system   kube-proxy-zbvlt                   1/1     Running   0             22m
+kube-system   kube-scheduler-minikube            1/1     Running   0             23m
+kube-system   storage-provisioner                1/1     Running   1 (22m ago)   23m
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+
+Port: 80
+"prediction: [20.35373177134412]"
