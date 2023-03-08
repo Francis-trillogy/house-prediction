@@ -1,0 +1,10 @@
+[2023-03-07 20:58:22,561] INFO in predict: JSON payload: 
+{'CHAS': {'0': 0}, 'RM': {'0': 6.575}, 'TAX': {'0': 296.0}, 'PTRATIO': {'0': 15.3}, 'B': {'0': 396.9}, 'LSTAT': {'0': 4.98}}
+[2023-03-07 20:58:22,596] INFO in predict: Inference payload DataFrame: 
+   CHAS     RM    TAX  PTRATIO      B  LSTAT
+0     0  6.575  296.0     15.3  396.9   4.98
+[2023-03-07 20:58:22,607] INFO in predict: Scaling Payload: 
+   CHAS     RM    TAX  PTRATIO      B  LSTAT
+0     0  6.575  296.0     15.3  396.9   4.98
+[2023-03-07 20:58:22,611] INFO in predict: prediction: [20.35373177134412]
+172.17.0.1 - - [07/Mar/2023 20:58:22] "POST /predict HTTP/1.1" 200 -
