@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Francis-trillogy/house-prediction/tree/dev.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Francis-trillogy/house-prediction/tree/dev)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Francis-trillogy/house-prediction/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Francis-trillogy/house-prediction/tree/main)
 
 ## Project Overview
 
